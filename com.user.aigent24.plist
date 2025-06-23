@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.user.aigent2024</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/python3</string>
+        <string>/Users/7xw/Documents/Work/ELM_ECP/GrammarAgent/AI_agent2024.py</string>
+    </array>
+    <key>WorkingDirectory</key>
+    <string>/Users/7xw/Documents/Work/ELM_ECP/GrammarAgent</string>
+    <key>StandardOutPath</key>
+    <string>/Users/7xw/ai_agent.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/7xw/ai_agent.err</string>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>KeepAlive</key>
+    <true/>
+</dict>
+</plist>
